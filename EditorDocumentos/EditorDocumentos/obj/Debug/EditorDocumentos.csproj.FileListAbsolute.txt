@@ -1,0 +1,7 @@
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\bin\Debug\EditorDocumentos.exe.config
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\bin\Debug\EditorDocumentos.exe
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\bin\Debug\EditorDocumentos.pdb
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.csproj.AssemblyReference.cache
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.exe
+C:\Users\irn07\source\repos\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.pdb
